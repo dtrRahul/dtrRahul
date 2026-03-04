@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dtrRahul
 - 👀 I’m interested in WEB/Mobile Development.
-- 🌱 I’m currently learning React and React Native
+- 🌱 I’m currently working on Python, Langraph, Fastapi, LLM integartion and Ui Builde tools
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
