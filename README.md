@@ -39,7 +39,7 @@ Build scalable AI-powered products
 Deepen expertise in LLM architectures
 Create impactful real-world automation tools
 📫 Connect With Me
-LinkedIn: [(Add your link here)](https://www.linkedin.com/in/rahul-rajan-200433162/)
+LinkedIn: [(Rahul Rajan)](https://www.linkedin.com/in/rahul-rajan-200433162/)
 Email: reachrahulrajesh@gmail.com
 ⚡ Fun Fact
 
