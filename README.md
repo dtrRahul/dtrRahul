@@ -1,10 +1,46 @@
-- 👋 Hi, I’m @dtrRahul
-- 👀 I’m interested in WEB/Mobile Development.
-- 🌱 I’m currently working on Python, Langraph, Fastapi, LLM integartion and Ui Builde tools
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+👋 Hi, I'm Rahul
 
-<!---
-dtrRahul/dtrRahul is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Software Developer | 🤖 AI Integration Enthusiast | ⚙️ Backend Specialist
+
+🚀 About Me
+4 years of experience in software development
+Strong in Java, Spring Boot, and backend architecture
+Currently focused on AI-driven applications
+Building solutions using FastAPI, LangGraph, and LLM integrations
+Experience with Microsoft Power Platform (PowerApps, Copilot Studio)
+🧠 What I’m Working On
+AI-powered automation systems
+LLM-based workflows using LangGraph
+FastAPI services for AI integrations
+End-to-end intelligent applications (backend + AI)
+🛠️ Tech Stack
+
+Backend
+
+Java, Spring Boot
+Python, FastAPI
+
+AI / LLM
+
+LangGraph
+LLM Integrations
+
+Tools & Platforms
+
+Microsoft PowerApps
+Copilot Studio
+Git, REST APIs
+📌 Projects
+🔹 AI Job Application Automation (LLM-based workflow system)
+🔹 LangGraph AI Engine for automating frontend & backend generation
+🔹 Backend APIs using Spring Boot for enterprise use cases
+📈 Goals
+Build scalable AI-powered products
+Deepen expertise in LLM architectures
+Create impactful real-world automation tools
+📫 Connect With Me
+LinkedIn: [(Add your link here)](https://www.linkedin.com/in/rahul-rajan-200433162/)
+Email: reachrahulrajesh@gmail.com
+⚡ Fun Fact
+
+I combine backend engineering with AI to build systems that think and act.
